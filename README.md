@@ -1,22 +1,49 @@
 # SAI Exam Helper
 
-Static helper website for SAI exam preparation and code/question checking.
+## English
+A static helper website for preparing and checking SAI exam questions.
 
-## Features
+### Features
+- Manual study mode.
+- Code checker tab.
+- Dark UI theme.
 
-- Manual mode for studying questions
-- Code checker tab
-- Dark UI theme
-- Question data in JavaScript
+### Screenshots
+![Screenshot 1](docs/screenshots/01-home.png)
+![Screenshot 2](docs/screenshots/02-manual-mode.png)
+![Screenshot 3](docs/screenshots/03-code-checker.png)
 
-## Run locally
+### Run locally
+Use any static file server and open the project in a browser. Example: Python built-in HTTP server on port 8000.
 
-```bash
-python3 -m http.server 8000
-```
+## Русский
+Статический сайт-помощник для подготовки к экзамену SAI и проверки вопросов/кодов.
 
-Open `http://localhost:8000`.
+### Возможности
+- Manual study mode.
+- Code checker tab.
+- Dark UI theme.
 
-## Deployment
+### Скриншоты
+![Screenshot 1](docs/screenshots/01-home.png)
+![Screenshot 2](docs/screenshots/02-manual-mode.png)
+![Screenshot 3](docs/screenshots/03-code-checker.png)
 
-This project can be deployed with GitHub Pages because it is a static HTML/CSS/JS site.
+### Локальный запуск
+Запусти любой статический HTTP-сервер и открой проект в браузере. Например, встроенный Python HTTP server на порту 8000.
+
+## Українська
+Статичний сайт-помічник для підготовки до іспиту SAI та перевірки питань/кодів.
+
+### Можливості
+- Manual study mode.
+- Code checker tab.
+- Dark UI theme.
+
+### Скріншоти
+![Screenshot 1](docs/screenshots/01-home.png)
+![Screenshot 2](docs/screenshots/02-manual-mode.png)
+![Screenshot 3](docs/screenshots/03-code-checker.png)
+
+### Локальний запуск
+Запусти будь-який статичний HTTP-сервер і відкрий проєкт у браузері. Наприклад, вбудований Python HTTP server на порту 8000.
